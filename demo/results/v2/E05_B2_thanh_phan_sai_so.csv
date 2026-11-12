@@ -1,5 +1,0 @@
-﻿mo_hinh,so_ngay,so_mau,MAE,MAE_neu_biet_muc_chung_cua_ngay,ty_le_MSE_do_lech_theo_ngay,tuong_quan_toc_do_ngay_va_lech,tuong_quan_trong_ngay,do_lech_chuan_toc_do_that,do_lech_chuan_du_bao
-Mốc: lịch sử đoạn,50,15993,11.785,7.23,0.4803,-0.9921,0.2673,15.971,3.642
-Hồi quy tuyến tính,50,15993,9.849,7.267,0.4178,-0.7359,0.3872,15.971,11.466
-Random Forest (tinh chỉnh),50,15993,9.004,6.801,0.3861,-0.7698,0.4246,15.971,10.828
-XGBoost (tinh chỉnh),50,15993,9.174,6.962,0.3908,-0.7424,0.4089,15.971,11.349
