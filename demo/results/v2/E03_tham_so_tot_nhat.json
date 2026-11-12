@@ -1,0 +1,26 @@
+{
+  "Random Forest": {
+    "tham_so": {
+      "n_estimators": 200,
+      "min_samples_leaf": 10,
+      "max_features": 0.3,
+      "max_depth": null
+    },
+    "lan_thu": "thử 4",
+    "MAE_validation": 9.0612,
+    "MAE_validation_mac_dinh": 9.1623
+  },
+  "XGBoost": {
+    "tham_so": {
+      "subsample": 0.8,
+      "n_estimators": 300,
+      "min_child_weight": 20,
+      "max_depth": 6,
+      "learning_rate": 0.02,
+      "colsample_bytree": 1.0
+    },
+    "lan_thu": "thử 15",
+    "MAE_validation": 9.2316,
+    "MAE_validation_mac_dinh": 9.8538
+  }
+}

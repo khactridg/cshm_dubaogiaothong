@@ -1,0 +1,14 @@
+# môi trường ảo và cache
+.venv/
+__pycache__/
+*.pyc
+
+# dữ liệu và mô hình (lớn, không đưa lên GitHub)
+data/raw/
+data/sach/
+demo/models/
+*.joblib
+
+# kết quả sinh ra khi chạy
+ket_qua/
+mo_hinh/

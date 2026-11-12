@@ -1,0 +1,22 @@
+﻿mo_hinh,tinh_huong,seed,MAE
+Mốc: trung bình,Đáp án thật,,13.6
+Mốc: trung bình,Đáp án đã xáo,42.0,13.5187
+Mốc: trung bình,"Đáp án đã xáo, cố tình rò rỉ (đối chứng)",42.0,13.5182
+Mốc: trung bình,Đáp án đã xáo,43.0,13.5182
+Mốc: trung bình,"Đáp án đã xáo, cố tình rò rỉ (đối chứng)",43.0,13.5183
+Mốc: trung bình,Đáp án đã xáo,44.0,13.518
+Mốc: trung bình,"Đáp án đã xáo, cố tình rò rỉ (đối chứng)",44.0,13.5179
+Hồi quy tuyến tính,Đáp án thật,,9.9179
+Hồi quy tuyến tính,Đáp án đã xáo,42.0,13.557
+Hồi quy tuyến tính,"Đáp án đã xáo, cố tình rò rỉ (đối chứng)",42.0,9.256
+Hồi quy tuyến tính,Đáp án đã xáo,43.0,13.6035
+Hồi quy tuyến tính,"Đáp án đã xáo, cố tình rò rỉ (đối chứng)",43.0,9.2001
+Hồi quy tuyến tính,Đáp án đã xáo,44.0,13.6067
+Hồi quy tuyến tính,"Đáp án đã xáo, cố tình rò rỉ (đối chứng)",44.0,9.2227
+Random Forest (tinh chỉnh),Đáp án thật,,9.0612
+Random Forest (tinh chỉnh),Đáp án đã xáo,42.0,13.6227
+Random Forest (tinh chỉnh),"Đáp án đã xáo, cố tình rò rỉ (đối chứng)",42.0,8.4452
+Random Forest (tinh chỉnh),Đáp án đã xáo,43.0,13.6138
+Random Forest (tinh chỉnh),"Đáp án đã xáo, cố tình rò rỉ (đối chứng)",43.0,8.4832
+Random Forest (tinh chỉnh),Đáp án đã xáo,44.0,13.617
+Random Forest (tinh chỉnh),"Đáp án đã xáo, cố tình rò rỉ (đối chứng)",44.0,8.406
